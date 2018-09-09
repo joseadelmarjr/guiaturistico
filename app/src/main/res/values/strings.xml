@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">guiaturistico</string>
+    <string name="pais">País não cadastrado</string>
+    <string name="comida">Comida não cadastrada</string>
+</resources>
